@@ -16,6 +16,6 @@ This project analyzes [1 India Family Mart ] using Microsoft Excel. It includes 
 - Highest selling category?
 - Percentage of Total Orders delivered
 
--Dashboard Interaction <a href="
+-Dashboard Interaction <a href="https://github.com/SayanB29/Excel-Data-Analysis-Dashboard-Project/blob/main/Dashboard%20Screenshot.png"> Dataset</a>
 
 
