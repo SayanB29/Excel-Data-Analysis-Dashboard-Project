@@ -29,6 +29,6 @@ This project analyzes [1 India Family Mart ] using Microsoft Excel. It includes 
 -> Dashboard Design in Excel
 
 ## Dasboard
-[Dashboard Screenshot](
+[Dashboard Screenshot](https://github.com/SayanB29/Excel-Data-Analysis-Dashboard-Project/blob/main/Dashboard%20Screenshot.png)
 
 
