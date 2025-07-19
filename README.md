@@ -18,4 +18,17 @@ This project analyzes [1 India Family Mart ] using Microsoft Excel. It includes 
 
 -Dashboard Interaction <a href="https://github.com/SayanB29/Excel-Data-Analysis-Dashboard-Project/blob/main/Dashboard%20Screenshot.png"> Dataset</a>
 
+## Process and Skills Demonstrated 
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+-> Data Cleaning and Formatting
+-> Pivot Tables and Trends
+-> Slicers and charts
+-> Dashboard Design in Excel
+
+## Dasboard
+[Dashboard Screenshot](
+
 
