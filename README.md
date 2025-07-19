@@ -31,4 +31,12 @@ This project analyzes [1 India Family Mart ] using Microsoft Excel. It includes 
 ## Dasboard
 ![Dashboard Screenshot](https://github.com/SayanB29/Excel-Data-Analysis-Dashboard-Project/blob/main/Dashboard%20Screenshot.png)
 
+## Project Insight
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
 
+## Final Conclusion
+To improve the sales of [1 INDIA FAMILY MART], a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon,Flipkart and Myntra should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
